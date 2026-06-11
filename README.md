@@ -576,4 +576,8 @@ are fully supported and permanent — neither is deprecated. See
 
 **[Full CLI Docs](docs/CLI.md)** • **[REST API](docs/API.md)** • **[V3 Features](docs/V3_FEATURES.md)** • **[Issues](https://github.com/bodaay/HuggingFaceModelDownloader/issues)**
 
+---
+
+*Este fork é mantido pela **[THM Tecnologia — Thales Andrades](docs/thm/README.md)**: IA local, em português e com LGPD. Conheça o [JurisBench-BR](docs/thm/jurisbench/README.md) e o [Escriba](docs/thm/README.md#-soluções).*
+
 </div>
