@@ -578,6 +578,6 @@ are fully supported and permanent — neither is deprecated. See
 
 ---
 
-*Este fork é mantido pela **[THM Tecnologia — Thales Andrades](docs/thm/README.md)**: IA local, em português e com LGPD. Conheça o [JurisBench-BR](docs/thm/jurisbench/README.md) e o [Escriba](docs/thm/README.md#-soluções).*
+*Este fork é mantido pela **THM Tecnologia — Thales Andrades**: IA local, em português e com LGPD. Conheça o [JurisBench-BR e o Escriba](https://github.com/ThalesAndrades/jurisbench-br).*
 
 </div>
